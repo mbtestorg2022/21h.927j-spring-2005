@@ -21,8 +21,45 @@ Grading
 
 The course grade will be determined by three components:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Regular Participation in Weekly Discussion, Demonstrating Close Reading of the Assigned Materials | 20% |
-| Two One-page Discussion Papers on Class Readings (15% each) | 30% |
-| Research Paper (and Subsidiary Components) | 50%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Regular Participation in Weekly Discussion, Demonstrating Close Reading of the Assigned Materials
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two One-page Discussion Papers on Class Readings (15% each)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Paper (and Subsidiary Components)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
