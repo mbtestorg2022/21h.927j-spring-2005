@@ -4,6 +4,7 @@ description: 'Example of student work: first draft of a research paper on change
   in non-food household expenditure between sexes by marital and work status.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/68d58f9a84144879ec316cef6d23498e_MIT21H_927JS05_first_anony.pdf
 file_type: application/pdf
+parent_uid: 1c25c940-8cec-a3e3-5edb-e12f619ceeda
 resourcetype: Document
 title: 'Changes in Non-Food Household Expenditure between Sexes  by Marital and Work
   Status '

@@ -4,6 +4,7 @@ description: Data accompanying a student research paper on changes in non-food h
   expenditure between sexes by marital and work status.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/4d20948d5a73e31fa269c1efc1a3903d_MIT21H_927JS05_fnl_rsltanony.pdf
 file_type: application/pdf
+parent_uid: 1c25c940-8cec-a3e3-5edb-e12f619ceeda
 resourcetype: Document
 title: 'Final Results - On Household Bargaining: Theoretical Models and Empirical
   Evidence'
